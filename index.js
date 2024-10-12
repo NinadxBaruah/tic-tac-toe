@@ -30,7 +30,7 @@ app.use('/multiplayer',multiplayerRoute)
 
 
 
-configureWebSocket(app.listen(PORT , '0.0.0.0', () =>{
+configureWebSocket(app.listen(PORT , () =>{
     console.log(`Server listening in the port: ${PORT}`)
 }))
 
