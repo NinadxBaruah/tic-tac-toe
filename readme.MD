@@ -82,10 +82,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Your chosen license, e.g., MIT License]
+[, e.g., MIT License]
 
 ## Contact
 
-[Your Name] - [Your Email]
+[Ninad Baruah] - [ninadbaruah@gmail.com]
 
-Project Link: [https://github.com/your-username/tic-tac-toe](https://github.com/your-username/tic-tac-toe)
+Project Link: [https://github.com/your-username/tic-tac-toe]
