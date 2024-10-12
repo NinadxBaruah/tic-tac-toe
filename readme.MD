@@ -88,4 +88,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 [Ninad Baruah] - [ninadbaruah@gmail.com]
 
-Project Link: [https://github.com/your-username/tic-tac-toe]
+Project Link: [https://github.com/NinadxBaruah/tic-tac-toe]
